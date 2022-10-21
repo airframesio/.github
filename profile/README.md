@@ -10,5 +10,6 @@ Welcome to Airframes!
 * [ACARS Message Documentation](https://github.com/airframesio/acars-message-documentation)
 * [ACARS Message Decoder Javascript Library](https://github.com/airframesio/acars-decoder-typescript)
 * [AirwavesOS](https://airwavesos.com)
+* [Public Data](https://github.com/airframesio/data)
 * Aggregator & Ingests (Private)
 * API Backend (Private)
