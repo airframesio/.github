@@ -4,6 +4,7 @@ Welcome to Airframes!
 
 [Website](https://airframes.io)
 [Documentation](https://docs.airframes.io)
+[Discord](https://discord.gg/aXt7KdycJk)
 
 ## Projects
 
