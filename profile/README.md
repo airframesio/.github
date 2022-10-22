@@ -16,3 +16,6 @@ While the meat and potatoes is still locked down to private contributors, we are
 * [Public Data](https://github.com/airframesio/data)
 * Aggregator & Ingests (Private)
 * API Backend (Private)
+* Desktop App (Private)
+* Mobile App (Private)
+* Web App (Private)
