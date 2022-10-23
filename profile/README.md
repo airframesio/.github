@@ -1,4 +1,4 @@
-<object data="Airframes-banner-2-for-Github.pdf.pdf" width="1000" type='application/pdf'></object>
+<object data="Airframes-banner-2-for-Github.pdf.pdf" width="1000" height="250" type='application/pdf'></object>
 
 # Airframes
 
