@@ -1,4 +1,4 @@
-<iframe width="100%" height="800" src="Airframes-banner-2-for-Github.pdf" />
+<object data="Airframes-banner-2-for-Github.pdf.pdf" width="1000" type='application/pdf'></object>
 
 # Airframes
 
