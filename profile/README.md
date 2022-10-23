@@ -1,4 +1,4 @@
-![banner](Airframes-banner-2-for-Github.png)
+![banner](/profile/Airframes-banner-2-for-Github.png)
 
 # Airframes
 
