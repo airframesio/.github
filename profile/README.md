@@ -14,7 +14,7 @@ While the meat and potatoes is still locked down to private contributors, we are
 
 * [ACARS Message Documentation](https://github.com/airframesio/acars-message-documentation)
 * [ACARS Message Decoder Javascript Library](https://github.com/airframesio/acars-decoder-typescript)
-* [Airwaves OS](https://airwavesos.com)
+* [AirwavesOS](https://airwavesos.com)
 * [Public Data](https://github.com/airframesio/data)
 * Aggregator & Ingests (Private)
 * API Backend (Private)
