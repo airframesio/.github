@@ -14,7 +14,7 @@ Welcome to Airframes!
 
 While the meat and potatoes is still locked down to private contributors, we are huge fans of open source. Eventually, we hope to open source as much as we can. Come use or participate in our projects.
 
-* [Airframes Installer](https://github.com/airframesio/scripts/installer)
+* [Airframes Installer](https://github.com/airframesio/installer)
 * [ACARS Message Documentation](https://github.com/airframesio/acars-message-documentation)
 * [ACARS Message Decoder Javascript Library](https://github.com/airframesio/acars-decoder-typescript)
 * [Airwaves OS](https://airwavesos.com)
