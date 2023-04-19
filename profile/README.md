@@ -8,6 +8,7 @@ Welcome to Airframes!
 - [Documentation](https://docs.airframes.io)
 - [Discord](https://discord.gg/airframes)
 - <a rel="me" href="https://airwaves.social/@airframes">Mastodon</a>
+- [Community Forums](https://community.airframes.io)
 
 ## Projects
 
