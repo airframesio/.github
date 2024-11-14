@@ -34,3 +34,4 @@ We are proud to share time, code and financial contributions to other communitie
 * [SDR Enthusiasts](https://sdr-e.com) - code, and other direct collaborations
 * [Meshtastic](https://opencollective.com/meshtastic) - community building, testing, and financial contributions
 * [SondeHub](https://sondehub.org) - financial contributions
+* [Aerospace Village](https://aerospacevillage.org) - collaborations
