@@ -29,6 +29,7 @@ While the meat and potatoes is still locked down to private contributors, we are
 
 We are proud to share time, code and financial contributions to other communities:
 
+* [thebaldgeek](https://tbg.airframes.io) - collaborations, code, data, etc
 * [Airplanes.Live](https://airplanes.live) - code, data, and other direct collaborations
 * [Plane.Watch](https://plane.watch) - code, and other direct collaborations
 * [SDR Enthusiasts](https://sdr-e.com) - code, and other direct collaborations
