@@ -38,4 +38,6 @@ We are proud to share time, code and financial contributions to other communitie
 * [SondeHub](https://sondehub.org) - financial contributions
 * [Aerospace Village](https://aerospacevillage.org) - collaborations
 
+---
+
 [![Airframes.io Discord server Banner](https://discordapp.com/api/guilds/1067697487927853077/widget.png?style=banner1)](https://discord.gg/airframes)
